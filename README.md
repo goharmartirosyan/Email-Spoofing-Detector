@@ -1,4 +1,5 @@
 # Email spoofing detector
+The scripts detects email spoofing by comparing the domain and the headers of the email file provided
 ## Usage
 
 To use the email spoofing detector, follow these steps:
